@@ -75,6 +75,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
  <br/>
  <br/>
 
- ## Statics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodev7z&show_icons=true)

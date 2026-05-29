@@ -1,18 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Caio
-=============================================================================================================================
+# Hi 👋, I'm Caio Sousa
 
-Desenvolvedor de Softwares
---------------------------
+🚀 **Computer engineering student | Java**  
+🇧🇷 Brazil
 
-Estudante de Engenharia de Computação pela UFMA, com foco em Progamação e desenvolvimento de software. Atualmente, estou estudando JAVA e aplicando meus conhecimentos em mini projetos.
+I am a Computer Engineering student at UFMA.
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [caiosousadev777@gmail.com](mailto:caiosousadev777@gmail.com)
+I am learning and using Java in project development to improve my backend skills. My focus is on object-oriented programming, clean code, logic, and problem-solving.
+
+I enjoy creating practical systems, studying software development concepts, and evolving step by step as a developer
+
+
+
+---
+
+## 🌐 Where to find me
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+  <a href="https://github.com/caiodev7">
+    <img src="https://img.shields.io/badge/GitHub-caiodev7-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/caiofsousa_">
+    <img src="https://img.shields.io/badge/Instagram-@caiofsousa_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/caiodev7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/caio-ferreira-02169b371" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## 🧠 What I do
+
+-   🏗️ EngComputer engineering student
+-   🔧 Exploring Git, GitHub, and project versioning
+-   🚀 Improving my backend development skills step by step
+-   🎯 Focused on becoming a professional Java developer
+-   📖 Constantly learning through projects and practice
+---
+
+## 🛠️ Languages and Tecnologies
+
+
+
+<img
+ align="left"
+ alt="Java"
+ title="Java"
+ width="50px"
+ style="padding-right; 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+ 
+<img
+align="left"
+ alt="Aws"
+ title="Aws"
+ width="50px"
+ style="padding-right; 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img 
+align="left"
+ alt="Git"
+ title="Git"
+ width="50px"
+ style="padding-right; 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+ <img 
+ align="left"
+ alt="Intellij"
+ title="Intellij"
+ width="50px"
+ style="padding-right; 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+ <br/>
+ <br/>
+
+ ## Statics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodev7z&show_icons=true)

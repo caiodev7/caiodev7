@@ -80,3 +80,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
  <br/>
  <br/>
 
+ ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caiodev7/caiodev7/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+

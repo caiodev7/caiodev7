@@ -19,8 +19,13 @@ I enjoy creating practical systems, studying software development concepts, and 
   <a href="https://github.com/caiodev7">
     <img src="https://img.shields.io/badge/GitHub-caiodev7-181717?style=for-the-badge&logo=github" />
   </a>
+
   <a href="https://instagram.com/caiofsousa_">
     <img src="https://img.shields.io/badge/Instagram-@caiofsousa_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.tiktok.com/@caio.sousadev">
+    <img src="https://img.shields.io/badge/TikTok-@caio.sousadev-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 

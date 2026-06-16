@@ -2,20 +2,23 @@
   <img src="banner.png" width="100%">
 </p>
 
-🚀 **Computer engineering student | Java**  
-🇧🇷 Brazil
+# 👾 INSERT COIN TO START
 
-I am a Computer Engineering student at UFMA.
+🎮 **CAIO SOUSA**
 
-I am learning and using Java in project development to improve my backend skills. My focus is on object-oriented programming, clean code, logic, and problem-solving.
+☕ **JAVA DEVELOPER IN PROGRESS**
 
-I enjoy creating practical systems, studying software development concepts, and evolving step by step as a developer
+🎓 **Computer Engineering Student @ UFMA**
 
+🇧🇷 **Brazil**
 
+Currently leveling up my backend development skills through Java projects, object-oriented programming, clean code, logic, and problem solving.
+
+My mission is to become a professional Java Backend Developer by building practical projects and continuously improving through study and hands-on experience.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 NETWORK TERMINALS
 
 <p align="left">
   <a href="https://github.com/caiodev7">
@@ -33,56 +36,59 @@ I enjoy creating practical systems, studying software development concepts, and 
 
 ---
 
-## 🧠 What I do
+## ⚡ POWER UPS COLLECTED
 
--   🏗️ EngComputer engineering student
--   🔧 Exploring Git, GitHub, and project versioning
--   🚀 Improving my backend development skills step by step
--   🎯 Focused on becoming a professional Java developer
--   📖 Constantly learning through projects and practice
----
+<p align="left">
 
-## 🛠️ Languages and Tecnologies
-
-
-
-<img
- align="left"
- alt="Java"
- title="Java"
- width="50px"
- style="padding-right; 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
- 
 <img
 align="left"
- alt="Aws"
- title="Aws"
- width="50px"
- style="padding-right; 10px;" 
+alt="Java"
+title="Java"
+width="50px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img
+align="left"
+alt="AWS"
+title="AWS"
+width="50px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img 
+<img
 align="left"
- alt="Git"
- title="Git"
- width="50px"
- style="padding-right; 10px;"
+alt="Git"
+title="Git"
+width="50px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
- <img 
- align="left"
- alt="Intellij"
- title="Intellij"
- width="50px"
- style="padding-right; 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img
+align="left"
+alt="IntelliJ"
+title="IntelliJ"
+width="50px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
- <br/>
- <br/>
+</p>
 
- ---
+<br/>
+<br/>
+<br/>
+
+---
+
+## 📊 PLAYER STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiodev7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodev7&layout=compact&theme=tokyonight)
+
+---
+
+```txt
+GAME STATUS: LOADING NEXT LEVEL...
+```
+
+☕ Learning Java one project at a time.
 
 ## 🐍 Contribution Snake
 

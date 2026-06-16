@@ -1,4 +1,6 @@
-# Hi 👋, I'm Caio Sousa
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
 🚀 **Computer engineering student | Java**  
 🇧🇷 Brazil
